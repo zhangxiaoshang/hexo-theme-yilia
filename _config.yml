@@ -2,7 +2,8 @@
 
 menu:
   主页: /
-  笔记: /tags/笔记/
+  笔记: /categories/note/
+  日志: /categories/log/
 
 # SubNav
 subnav:
