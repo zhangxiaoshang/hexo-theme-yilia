@@ -4,6 +4,7 @@ menu:
   # 全部: /archives
   笔记: /categories/note/
   日志: /categories/log/
+  阅读: /read/
 
 # SubNav
 subnav:
@@ -66,10 +67,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /source/profile/favicon.ico
+favicon: /images/profile/favicon.ico
 
 #你的头像url
-avatar: /source/profile/avatar.jpg
+avatar: /images/profile/avatar.jpg
 
 #是否开启分享
 share_jia: true
