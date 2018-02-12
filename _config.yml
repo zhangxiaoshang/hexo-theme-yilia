@@ -2,8 +2,8 @@
 
 menu:
   # 全部: /archives
-  笔记: /categories/note/
-  日志: /categories/log/
+  note: /categories/note/
+  log: /categories/log/
   阅读: /read/
 
 # SubNav
