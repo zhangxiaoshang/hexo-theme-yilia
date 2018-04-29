@@ -104,7 +104,7 @@ gitalk_owner: 'zhangxiaoshang'       #你的 GitHub ID
 gitalk_repo: 'zhangxiaoshang.github.io'          #存储评论的 repo
 gitalk_client_id: '00efef364655aa905c81'
 gitalk_client_secret: '06e99769def8207c5f88208a6f41192f22aedbb3'
-gitalk_admin: ['zhangxiaoshang']
+gitalk_admin: 'zhangxiaoshang'
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
